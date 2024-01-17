@@ -41,7 +41,7 @@ https://github.com/AnikKazi-dev/Liberation_War_Hero_Museum-Unity/assets/36131816
 ## About the project
 
 * Android VR game/app
-* Developed with Unity Engine
+* Developed with Unity Engine and Google VR SDK
 
 ## Key Features
 
