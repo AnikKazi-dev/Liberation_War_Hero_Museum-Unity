@@ -10,7 +10,7 @@ Game engine </a>.</h4>
 
 
 ## Table of Contents
-* [Mockup](#mockup)
+* [Video](#video)
 * [Screenshots](#screenshots)
 * [About the Project](#about-the-project)
 * [Key Features](#key-features)
@@ -18,10 +18,12 @@ Game engine </a>.</h4>
 * [License](#license)
 * [Contact](#contact)
 
-## Mockup
-<p align="center">
-  <img src="screenshot/Mockup.jpg" hspace="4">
-</p>
+## Video
+
+https://github.com/AnikKazi-dev/Liberation_War_Hero_Museum-Unity/assets/36131816/0e9ecabf-8281-4e53-a701-f27ef2a8cb36
+
+
+
 
 ## Screenshots 
 
