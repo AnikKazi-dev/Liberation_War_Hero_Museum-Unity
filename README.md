@@ -55,7 +55,7 @@ https://github.com/AnikKazi-dev/Liberation_War_Hero_Museum-Unity/assets/36131816
 This software uses the following packages:
 
 - [Unity Engine](https://unity.com/)
-- [Dart](https://unity.com/how-to/learning-c-sharp-unity-beginners)
+- [C#](https://unity.com/how-to/learning-c-sharp-unity-beginners)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 
