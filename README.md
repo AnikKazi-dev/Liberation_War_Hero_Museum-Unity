@@ -28,31 +28,34 @@ https://github.com/AnikKazi-dev/Liberation_War_Hero_Museum-Unity/assets/36131816
 ## Screenshots 
 
 <p align="center">
-  <img src="screenshot/1.png" width="256" hspace="4">
-  <img src="screenshot/2.png" width="256" hspace="4">
-  <img src="screenshot/3.png" width="256" hspace="4">
-  <img src="screenshot/4.png" width="256" hspace="4">
+  <img src="screenshot/1.jpg" width="256" hspace="4">
+  <img src="screenshot/2.jpg" width="256" hspace="4">
+  <img src="screenshot/3.jpg" width="256" hspace="4">
+  <img src="screenshot/4.jpg" width="256" hspace="4">
+  <img src="screenshot/5.jpg" width="256" hspace="4">
+  <img src="screenshot/6.jpg" width="256" hspace="4">
+  <img src="screenshot/7.jpg" width="256" hspace="4">
 </p>
 
 
 ## About the project
 
-* **Backend connection**: Json API
+* Android VR game/app
+* Developed with Unity Engine
 
 ## Key Features
 
-* Browse Categorized Food
-* Can see food recipe (Ingredient and steps to cook)
-* Can filter out food (Gluten free, lactose free, Vegetarian, vegan)
-* Save filter
-* Add to favorite
+* Allows users to explore a museum of 1971 Bangladesh Liberation War heroes
+* Features photo exhibitions of war soldiers
+* Provides written biographies
+* Includes video formats for biographies
 
 ## Built With
 
 This software uses the following packages:
 
-- [Flutter](https://flutter.dev/)
-- [Dart](https://dart.dev/)
+- [Unity Engine](https://unity.com/)
+- [Dart](https://unity.com/how-to/learning-c-sharp-unity-beginners)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
 
